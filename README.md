@@ -12,3 +12,5 @@
 ![6](https://user-images.githubusercontent.com/46414809/151832225-a3a3fa65-c482-4e39-9efb-33d37b0d4ad8.png)
 # tampilan data laporan
 ![8](https://user-images.githubusercontent.com/46414809/151833200-590713b2-c905-4033-bd9c-068840c27169.png)
+# tampilan data user
+![8](https://user-images.githubusercontent.com/46414809/151833200-590713b2-c905-4033-bd9c-068840c27169.png)
