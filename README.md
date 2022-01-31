@@ -6,5 +6,8 @@
 ![3](https://user-images.githubusercontent.com/46414809/151829762-840c3d18-71f0-4343-b9df-f41605ccab6a.png)
 # tampilan data jenis
 ![4](https://user-images.githubusercontent.com/46414809/151830176-4734ebb1-120f-49f2-9043-19c2ebee07f9.png)
-# tampilan data barang
+# tampilan data barang masuk
 ![5](https://user-images.githubusercontent.com/46414809/151831224-2bbff65a-b395-4d00-b91d-86908ccbdf46.png)
+# tampilan data barang keluar
+![6](https://user-images.githubusercontent.com/46414809/151832225-a3a3fa65-c482-4e39-9efb-33d37b0d4ad8.png)
+
